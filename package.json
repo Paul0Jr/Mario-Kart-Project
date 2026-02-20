@@ -1,0 +1,22 @@
+{
+  "name": "mario-kart-project",
+  "version": "1.0.0",
+  "description": "Mario Kart project using Noje.js",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul0Jr/Mario-Kart-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Paul0Jr/Mario-Kart-Project/issues"
+  },
+  "homepage": "https://github.com/Paul0Jr/Mario-Kart-Project#readme"
+}
